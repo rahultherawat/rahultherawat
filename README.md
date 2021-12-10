@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @rahultherawat
-- 👀 I’m interested in ... Android Developement
-- 🌱 I’m currently learning ... Android Developement
+- 👀 I’m interested in ... cross platform app developement
+- 🌱 I’m currently learning ... Javascript
+- 🧑‍🤝‍🧑 I'm looking to collaborate on ... Javascript
+- 🤒 I'm looking for help with ... React native
+- 💭 Ask me about ... Anything
+- 🪧 How to reach me ... [twiiter](https://twitter.com/onerahulrawat)
 
 
 <!---
