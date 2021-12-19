@@ -4,7 +4,7 @@
 - 🧑‍🤝‍🧑 I'm looking to collaborate on ... Javascript
 - 🤒 I'm looking for help with ... React native
 - 💭 Ask me about ... Anything
-- 🪧 How to reach me ... [twitter](https://twitter.com/onerahulrawat)
+
 
 
 <!---
