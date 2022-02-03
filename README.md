@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahultherawat
+- 👋 Hi, I’m Rahul Rawat
 - 👀 I’m interested in ... cross platform app developement
 - 🌱 I’m currently learning ... Javascript
 - 🧑‍🤝‍🧑 I'm looking to collaborate on ... Javascript
